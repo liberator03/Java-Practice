@@ -1,9 +1,11 @@
-public class Student{
+package Assignment;
+
+public class Assignment2{
     String name;
     int age;
     double marks;
 
-    public Student(String name, int age, double marks){
+    public Assignment2(String name, int age, double marks){
         this.name = name;
         this.age = age;
         this.marks = marks;
@@ -17,8 +19,8 @@ public class Student{
     }
 
     public static void main(String[] args) {
-        Student student1 = new Student("Mukund", 21, 99.0);
-        Student student2 = new Student("Om", 21, 95.5);
+        Assignment2 student1 = new Assignment2("Mukund", 21, 99.0);
+        Assignment2 student2 = new Assignment2("Om", 21, 95.5);
 
         student1.printStudentInfo();
         student2.printStudentInfo();

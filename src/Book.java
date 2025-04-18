@@ -31,6 +31,11 @@ public class Book {
         System.out.println();
     }
 
+    public void printSummary() {
+        System.out.println(title + " is a book written by " + author + ".");
+    }
+
+
     public static void main(String[] args) {
         Book book = new Book("Atomic Habits", "James Clear");
 //        Book book2 = new Book("Wings of Fire", "A. P. J. Abdul Kalam");

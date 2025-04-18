@@ -1,3 +1,5 @@
+package Assignment;
+
 public class Assignment5 {
     public static void greetByTime(String name,int hour){
         if (hour < 12) {

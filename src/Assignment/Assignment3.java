@@ -1,4 +1,6 @@
-public class ArrayAnalysis {
+package Assignment;
+
+public class Assignment3 {
 
     public static void printAll(int[] array){
         System.out.print("All Elements: ");
