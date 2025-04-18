@@ -25,11 +25,11 @@ Welcome to my Java learning journey! This repo chronicles the concepts I've lear
 
 | **Assignment**                        | **Concept Focused**                                    |
 |---------------------------------------|--------------------------------------------------------|
-| [Calculator](./Assignment1.java)      | Methods, basic operations                              |
-| [Student Info](./Assignment2.java)    | Methods, data types                                    |
-| [Array Analysis](./Assignment3.java)  | Arrays, loops, conditionals                            |
-| [FizzBuzz](./Assignment4.java)        | Loops, conditionals                                    |
-| [Greet by Time](./Assignment5.java)   | Conditionals, time-based logic                         |
+| [Calculator](src/Assignment/Assignment1.java)      | Methods, basic operations                              |
+| [Student Info](src/Assignment/Assignment2.java)    | Methods, data types                                    |
+| [Array Analysis](src/Assignment/Assignment3.java)  | Arrays, loops, conditionals                            |
+| [FizzBuzz](src/Assignment/Assignment4.java)        | Loops, conditionals                                    |
+| [Greet by Time](src/Assignment/Assignment5.java)   | Conditionals, time-based logic                         |
 
 ## 🚀 What’s Next?
 
